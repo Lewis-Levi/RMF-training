@@ -1,0 +1,80 @@
+mc
+What is Step 1 of Risk Management Framework (RMF)?
+Implement
+Assess
+Select
+Categorize
+Authorize
+Monitor
+d
+---
+mc
+What is Confidentiality?
+to prevent unauthorized disclosure of information
+to prevent unauthorized modification or destruction of information
+to prevent disruption of access to information
+a
+---
+mc
+What is Availability?
+to prevent unauthorized disclosure of information
+to prevent unauthorized modification or destruction of information
+to prevent disruption of access to information
+c
+---
+mc
+What is Integrity?
+to prevent unauthorized disclosure of information
+to prevent unauthorized modification or destruction of information
+to prevent disruption of access to information
+b
+---
+mc
+Changing grades by hacking into school networks is an example of a loss of
+Confidentiality
+Integrity
+Availability
+b
+---
+mc
+Medical records being encrypted by ransomware is an example of a loss of
+Confidentiality
+Integrity
+Availability
+c
+---
+mc
+Data breaches which expose customer credit card information are an example of a loss of
+Confidentiality
+Integrity
+Availability
+a
+---
+mc
+What are the three possible Impact Levels in FIPS 199?
+Low, Moderate, High
+MAC I, MAC II, MAC III
+Classified, Sensitive, Public
+a
+---
+mc
+What is the Impact Level for the information system if its information type is {(confidentiality, LOW), (integrity, HIGH), (availability, MODERATE)}?
+LOW
+MODERATE
+HIGH
+c
+---
+mc
+What is the Impact Level for the information system if its information type is {(confidentiality, LOW), (integrity, LOW), (availability, MODERATE)}?
+LOW
+MODERATE
+HIGH
+b
+---
+mc
+What is the Impact Level for the information system if its information type is {(confidentiality, LOW), (integrity, LOW), (availability, LOW)}?
+LOW
+MODERATE
+HIGH
+a
+---

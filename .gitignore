@@ -1,0 +1,5 @@
+_site/*
+.idea/
+.sass-cache
+*.mp4
+./_site/*.mp4

@@ -1,0 +1,58 @@
+---
+layout: base
+---
+
+<!-- Banner -->
+<div class="jumbotron">
+	<div class="container text-center">
+        <!--{% if site.jumbotron_image %}-->
+            <!--<img src="{{ site.baseurl }}/img/{{ site.jumbotron_image }}"-->
+                 <!--alt="{{ site.title }} Icon" />-->
+        <!--{% endif %}-->
+		<header>
+			<h1>{{ site.data.course.description }}</h1>
+		</header>
+		<p>
+			<br>
+			<br>
+			<a class="btn btn-danger btn-lg"
+			   href="{{ site.baseurl }}/modules/part 1/start/">Start Course</a>
+		</p>
+
+	</div>
+
+</div>
+
+<div class="container">
+	<div class="clearfix">
+		<div class="col-md-8 col-md-offset-2">
+			<section>
+				{{ content }}
+			</section>
+		</div>
+	</div>
+</div>
+
+{% comment %}
+<section class="people clearfix light-section">
+	<div class="container">
+		<h2>Who else is here?</h2>
+		<hr />
+		<ul class="list-inline">
+			{% for user in site.data.course.signups %}
+				<li class="col-md-1">
+					<a href="https://twitter.com/{{ user.twitter }}"
+					   target="_blank"> <img
+							class="img-circle profile-picture"
+							src="{{ user.image }}"
+							alt="{{ user.name }}"> </a>
+				</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+{% endcomment %}
+
+<div class="p2pu-footer"  style="text-align: center; text-decoration: none;">
+Built with <a href="https://howto.p2pu.org/">P2PU</a> | Source on <a href="https://github.com/andrew-ma/rmf"><i class="fa fa-github"></i></a> | <a target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+</div>

@@ -1,0 +1,22 @@
+tf
+In FIPS 200, there are 17 Families (security-related areas).
+t
+---
+tf
+Baselines should not be changed but applied as-is to the information system.
+f
+---
+mc
+A fence surrounding the building containing information systems would be an example of what type of control?
+common
+system
+hybrid
+a
+---
+mc
+Selected security controls and rationale for tailoring are documented in the ____.
+System Assessment Report (SAR)
+System Security Plan (SSP)
+System Assessment Plan (SAP)
+b
+---

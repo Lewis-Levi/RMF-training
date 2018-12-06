@@ -1,0 +1,36 @@
+mc
+Whose role is to assess the security controls of the information system?
+TAG (Technical Advisory Group)
+REF (Risk Executive Function)
+CIO (Chief Information Officer)
+SISO (Senior Information Security Officer)
+ISO (Information System Owner) / IO (Information Owner)
+SCA (Security Control Assessor)
+AO (Authorizing Official)
+ISSO (Information System Security Officer)
+f
+---
+mc
+The Security Assessment Plan (SAP) contains:
+selected controls to be assessed
+assessment procedures (ex: penetration tests)
+schedule for assessments
+all of the above
+d
+---
+tf
+The Security Assessment Report (SAR) contains the findings of the security assessments, and the SCA's recommendations.
+t
+---
+tf
+Found vulnerabilities are added to the Plan of Action and Milestones (POA&M), and deleted once they are fixed.
+f
+---
+mc
+The Security Authorization Package submitted to the Authorizing Official (AO) contains which of the following:
+SSP
+SAR
+POA&M
+all of the above
+d
+---
